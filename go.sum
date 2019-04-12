@@ -453,6 +453,7 @@ github.com/prometheus/procfs v0.0.0-20181005140218-185b4288413d/go.mod h1:c3At6R
 github.com/prometheus/procfs v0.0.0-20181204211112-1dc9a6cbc91a/go.mod h1:c3At6R/oaqEKCNdg8wHV1ftS6bRYblBhIjjI8uT2IGk=
 github.com/prometheus/procfs v0.0.0-20190209105433-f8d8b3f739bd h1:pi7bGw6n4tfgHQtWDxJBBLYVdFr1GlfQEsDOyCDDFMM=
 github.com/prometheus/procfs v0.0.0-20190209105433-f8d8b3f739bd/go.mod h1:TjEm7ze935MbeOT/UhFTIMYKhuLP4wbCsTZCD3I8kEA=
+github.com/prometheus/procfs v0.0.0-20190412121511-e22ddced7142/go.mod h1:TjEm7ze935MbeOT/UhFTIMYKhuLP4wbCsTZCD3I8kEA=
 github.com/russellhaering/gosaml2 v0.3.2-0.20190403162508-649841e7f48a h1:1DCKa+k8gBj6DkJm1tkkRp2AtID5SEMmEjJZe5sXzKM=
 github.com/russellhaering/gosaml2 v0.3.2-0.20190403162508-649841e7f48a/go.mod h1:niieRtQaw+opTVp9jzZo1nAAoksI2eNpd+weDcjZ+Mk=
 github.com/russellhaering/goxmldsig v0.0.0-20180430223755-7acd5e4a6ef7 h1:J4AOUcOh/t1XbQcJfkEqhzgvMJ2tDxdCVvmHxW5QXao=
